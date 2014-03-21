@@ -10,4 +10,5 @@ public class HelloWorld {
 	public static void helloStefan(){
 		System.out.println("Hello Mond"); //ZUM MOND
 	}
+	// ASdSAKDAKSD
 }
